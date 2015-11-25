@@ -1,11 +1,9 @@
 {
   "name": "elasticsearch-deletebyquery",
-  "version": "1.7.0",
+  "version": "1.6.0",
   "description": "elasticsearch deleteByQuery - back for those with the plugin installed",
   "main": "index.js",
   "dependencies": {
-    "elasticsearch": "^10.0.0",
-    "js-inspect-helpers": "^0.0.21"
   },
   "devDependencies": {},
   "scripts": {
