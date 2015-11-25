@@ -1,0 +1,30 @@
+{
+  "name": "elasticsearch-deletebyquery",
+  "version": "1.7.0",
+  "description": "elasticsearch deleteByQuery - back for those with the plugin installed",
+  "main": "index.js",
+  "dependencies": {
+    "elasticsearch": "^10.0.0",
+    "js-inspect-helpers": "^0.0.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dermidgen/elasticsearch-deletebyquery.git"
+  },
+  "keywords": [
+    "elasticsearch",
+    "client",
+    "plugin",
+    "deletebyquery"
+  ],
+  "author": "Danny Graham <good.midget@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dermidgen/elasticsearch-deletebyquery/issues"
+  },
+  "homepage": "https://github.com/dermidgen/elasticsearch-deletebyquery#readme"
+}
